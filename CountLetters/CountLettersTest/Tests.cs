@@ -11,13 +11,10 @@ namespace CountLettersTest
         {
             var word = "Elemcsere";
             var testDictionary = CountLetters.Program.CountLetters(word);
-            var expectedDictionary = new Dictionary<string, int>();
-            expectedDictionary.Add("e", 4);
-            expectedDictionary.Add("l", 1);
-            expectedDictionary.Add("m", 1);
-            expectedDictionary.Add("c", 1);
-            expectedDictionary.Add("s", 1);
-            expectedDictionary.Add("r", 1);
+            var expectedDictionary = new Dictionary<string, int>
+                {
+                    {"e", 4}, {"l", 1}, {"m", 1}, {"c", 1}, {"s", 1}, {"r", 1}
+                };
             Assert.AreEqual(testDictionary, expectedDictionary);
         }
         
@@ -26,13 +23,10 @@ namespace CountLettersTest
         {
             var word = "ElemcsereNEM";
             var testDictionary = CountLetters.Program.CountLetters(word);
-            var expectedDictionary = new Dictionary<string, int>();
-            expectedDictionary.Add("e", 4);
-            expectedDictionary.Add("l", 1);
-            expectedDictionary.Add("m", 1);
-            expectedDictionary.Add("c", 1);
-            expectedDictionary.Add("s", 1);
-            expectedDictionary.Add("r", 1);
+            var expectedDictionary = new Dictionary<string, int>
+                {
+                    {"e", 4}, {"l", 1}, {"m", 1}, {"c", 1}, {"s", 1}, {"r", 1}
+                };
             Assert.AreNotEqual(testDictionary, expectedDictionary);
         }
     }
