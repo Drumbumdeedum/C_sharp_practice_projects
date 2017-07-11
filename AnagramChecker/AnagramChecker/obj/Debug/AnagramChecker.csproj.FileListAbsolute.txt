@@ -1,0 +1,6 @@
+/Users/danielszalay/RiderProjects/AnagramChecker/AnagramChecker/bin/Debug/AnagramChecker.exe
+/Users/danielszalay/RiderProjects/AnagramChecker/AnagramChecker/bin/Debug/AnagramChecker.pdb
+/Users/danielszalay/RiderProjects/AnagramChecker/AnagramChecker/obj/Debug/AnagramChecker.csprojResolveAssemblyReference.cache
+/Users/danielszalay/RiderProjects/AnagramChecker/AnagramChecker/obj/Debug/AnagramChecker.csproj.CoreCompileInputs.cache
+/Users/danielszalay/RiderProjects/AnagramChecker/AnagramChecker/obj/Debug/AnagramChecker.exe
+/Users/danielszalay/RiderProjects/AnagramChecker/AnagramChecker/obj/Debug/AnagramChecker.pdb

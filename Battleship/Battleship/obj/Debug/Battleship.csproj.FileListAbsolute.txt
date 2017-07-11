@@ -1,0 +1,6 @@
+/Users/danielszalay/RiderProjects/Battleship/Battleship/bin/Debug/Battleship.exe
+/Users/danielszalay/RiderProjects/Battleship/Battleship/bin/Debug/Battleship.pdb
+/Users/danielszalay/RiderProjects/Battleship/Battleship/obj/Debug/Battleship.csprojResolveAssemblyReference.cache
+/Users/danielszalay/RiderProjects/Battleship/Battleship/obj/Debug/Battleship.csproj.CoreCompileInputs.cache
+/Users/danielszalay/RiderProjects/Battleship/Battleship/obj/Debug/Battleship.exe
+/Users/danielszalay/RiderProjects/Battleship/Battleship/obj/Debug/Battleship.pdb
