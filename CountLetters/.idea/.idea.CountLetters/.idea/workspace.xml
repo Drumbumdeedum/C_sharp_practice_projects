@@ -12,11 +12,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="CountLetters.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CountLetters.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CountLetters/CountLetters.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="40" lean-forward="true" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
+            <state relative-caret-position="302">
+              <caret line="24" column="72" lean-forward="false" selection-start-line="24" selection-start-column="72" selection-end-line="24" selection-end-column="72" />
               <folding>
                 <marker date="1499767086000" expanded="true" signature="6:47" ph="..." />
                 <marker date="1499767086000" expanded="true" signature="71:1199" ph="{...}" />
@@ -32,16 +32,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Tests.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Tests.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CountLettersTest/Tests.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+            <state relative-caret-position="300">
+              <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
               <folding>
-                <marker date="1499765584000" expanded="true" signature="6:36" ph="..." />
-                <marker date="1499765584000" expanded="true" signature="64:215" ph="{...}" />
-                <marker date="1499765584000" expanded="true" signature="107:213" ph="{...}" />
-                <marker date="1499765584000" expanded="true" signature="156:207" ph="{...}" />
+                <marker date="1499776597000" expanded="true" signature="6:56" ph="..." />
+                <marker date="1499776597000" expanded="true" signature="84:1327" ph="{...}" />
+                <marker date="1499776597000" expanded="true" signature="127:1325" ph="{...}" />
+                <marker date="1499776597000" expanded="true" signature="190:717" ph="{...}" />
+                <marker date="1499776597000" expanded="true" signature="786:1319" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -54,8 +55,9 @@
       <list>
         <option value="$PROJECT_DIR$/CountLetters/Tests.cs" />
         <option value="$PROJECT_DIR$/CountLetters/Program.cs" />
-        <option value="$PROJECT_DIR$/CountLettersTest/Tests.cs" />
         <option value="$PROJECT_DIR$/CountLetters/CountLetters.cs" />
+        <option value="$PROJECT_DIR$/CountLettersTest/CountLettersTest.cs" />
+        <option value="$PROJECT_DIR$/CountLettersTest/Tests.cs" />
       </list>
     </option>
   </component>
@@ -205,6 +207,7 @@
       <envs />
       <method />
     </configuration>
+    <configuration />
     <list size="1">
       <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
     </list>
@@ -219,12 +222,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1499765455583</updated>
-      <workItem from="1499765456965" duration="1693000" />
+      <workItem from="1499765456965" duration="2325000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1693000" />
+    <option name="totallyTimeSpent" value="2325000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -237,12 +240,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="29" y="23" width="1345" height="832" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4135135" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4135135" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -280,23 +284,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CountLettersTest/Tests.cs">
+    <entry file="file://$PROJECT_DIR$/CountLettersTest/CountLettersTest.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
-          <folding>
-            <marker date="1499765584000" expanded="true" signature="6:36" ph="..." />
-            <marker date="1499765584000" expanded="true" signature="64:215" ph="{...}" />
-            <marker date="1499765584000" expanded="true" signature="107:213" ph="{...}" />
-            <marker date="1499765584000" expanded="true" signature="156:207" ph="{...}" />
-          </folding>
+        <state relative-caret-position="60">
+          <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CountLetters/CountLetters.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="40" lean-forward="true" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
+        <state relative-caret-position="302">
+          <caret line="24" column="72" lean-forward="false" selection-start-line="24" selection-start-column="72" selection-end-line="24" selection-end-column="72" />
           <folding>
             <marker date="1499767086000" expanded="true" signature="6:47" ph="..." />
             <marker date="1499767086000" expanded="true" signature="71:1199" ph="{...}" />
@@ -307,6 +306,20 @@
             <marker date="1499767086000" expanded="true" signature="652:1144" ph="{...}" />
             <marker date="1499767086000" expanded="true" signature="742:847" ph="{...}" />
             <marker date="1499767086000" expanded="true" signature="883:1130" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CountLettersTest/Tests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+          <folding>
+            <marker date="1499776597000" expanded="true" signature="6:56" ph="..." />
+            <marker date="1499776597000" expanded="true" signature="84:1327" ph="{...}" />
+            <marker date="1499776597000" expanded="true" signature="127:1325" ph="{...}" />
+            <marker date="1499776597000" expanded="true" signature="190:717" ph="{...}" />
+            <marker date="1499776597000" expanded="true" signature="786:1319" ph="{...}" />
           </folding>
         </state>
       </provider>
