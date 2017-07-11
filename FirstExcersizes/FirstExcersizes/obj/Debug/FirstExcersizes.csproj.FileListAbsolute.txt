@@ -1,6 +1,0 @@
-/Users/danielszalay/RiderProjects/FirstExcersizes/FirstExcersizes/bin/Debug/FirstExcersizes.exe
-/Users/danielszalay/RiderProjects/FirstExcersizes/FirstExcersizes/bin/Debug/FirstExcersizes.pdb
-/Users/danielszalay/RiderProjects/FirstExcersizes/FirstExcersizes/obj/Debug/FirstExcersizes.csprojResolveAssemblyReference.cache
-/Users/danielszalay/RiderProjects/FirstExcersizes/FirstExcersizes/obj/Debug/FirstExcersizes.csproj.CoreCompileInputs.cache
-/Users/danielszalay/RiderProjects/FirstExcersizes/FirstExcersizes/obj/Debug/FirstExcersizes.exe
-/Users/danielszalay/RiderProjects/FirstExcersizes/FirstExcersizes/obj/Debug/FirstExcersizes.pdb

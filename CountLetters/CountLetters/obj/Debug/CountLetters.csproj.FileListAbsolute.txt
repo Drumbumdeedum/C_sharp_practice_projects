@@ -1,6 +1,0 @@
-/Users/danielszalay/C_sharp_practice_projects/CountLetters/CountLetters/bin/Debug/CountLetters.exe
-/Users/danielszalay/C_sharp_practice_projects/CountLetters/CountLetters/bin/Debug/CountLetters.pdb
-/Users/danielszalay/C_sharp_practice_projects/CountLetters/CountLetters/obj/Debug/CountLetters.csprojResolveAssemblyReference.cache
-/Users/danielszalay/C_sharp_practice_projects/CountLetters/CountLetters/obj/Debug/CountLetters.csproj.CoreCompileInputs.cache
-/Users/danielszalay/C_sharp_practice_projects/CountLetters/CountLetters/obj/Debug/CountLetters.exe
-/Users/danielszalay/C_sharp_practice_projects/CountLetters/CountLetters/obj/Debug/CountLetters.pdb
